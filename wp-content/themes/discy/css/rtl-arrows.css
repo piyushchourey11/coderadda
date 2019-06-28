@@ -1,0 +1,7 @@
+/* RTL arrows */
+.main-pagination .icon-right-open:before,.question-navigation .icon-right-open:before {
+	content: "\e75d";
+}
+.main-pagination .icon-left-open:before,.question-navigation .icon-left-open:before {
+	content: "\e75e";
+}

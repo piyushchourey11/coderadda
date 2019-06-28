@@ -1,0 +1,144 @@
+[28-Jun-2019 11:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\header.php(9): wp_head()
+#9 C:\Apache24\htd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php on line 561
+[28-Jun-2019 11:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\header.php(9): wp_head()
+#9 C:\Apache24\htd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php on line 561
+[28-Jun-2019 11:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\header.php(9): wp_head()
+#9 C:\Apache24\htd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php on line 561
+[28-Jun-2019 11:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\header.php(9): wp_head()
+#9 C:\Apache24\htd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php on line 561
+[28-Jun-2019 11:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\header.php(9): wp_head()
+#9 C:\Apache24\htd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\discy\functions.php on line 561
+[28-Jun-2019 11:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:36:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
+[28-Jun-2019 11:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpqa_is_user_profile() in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php:561
+Stack trace:
+#0 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): discy_scripts_styles('')
+#1 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\Apache24\htdocs\coderadda\wp-includes\script-loader.php(2231): do_action('wp_enqueue_scri...')
+#4 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 C:\Apache24\htdocs\coderadda\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Apache24\htdocs\coderadda\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#7 C:\Apache24\htdocs\coderadda\wp-includes\general-template.php(2614): do_action('wp_head')
+#8 C:\Apache24\htdocs\coderadda\wp-content\themes\discy\header.php(9): wp_head()
+#9 C:\Apache24\htdocs\coderadd in C:\Apache24\htdocs\coderadda\wp-content\themes\discy\functions.php on line 561
